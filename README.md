@@ -46,7 +46,8 @@ def policy_iteration(P, gamma=1.0, theta=1e-10):
 ## Adversarial Policy
 ![image](https://github.com/Jayachandran20/policy-iteration-algorithm/assets/118447015/7d7cda49-11fb-4ad1-8ebc-31dc4a8662f8)
 
+## Optimal Policy with Gamma Value
+![image](https://github.com/Jayachandran20/policy-iteration-algorithm/assets/118447015/a9d286e5-459e-4286-9e97-cffb4740e6bd)
 
 ## RESULT:
-
-Write your result here
+Thus, a Python program is developed to find the optimal policy for the given MDP using the policy iteration algorithm.
